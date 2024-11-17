@@ -1,0 +1,19 @@
+/* src/main/resources/static/styles/style.css */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h1 {
+    color: #ff5722;  /* Attractive orange color */
+    font-size: 3em;
+    text-align: center;
+    margin: 0;
+}
